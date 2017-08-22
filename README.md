@@ -22,7 +22,7 @@ _________________________________________________
 
 Ubuntu 14.xx+
 ```
-wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/install.sh
+wget https://raw.githubusercontent.com/D1NFUCK3Rs/oneclick-pritunl/master/install.sh
 chmod +x install.sh
 ./install.sh
 ```
@@ -32,7 +32,7 @@ __________________________________________________
 
 Debian8
 ```
-wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/debian8.sh
+wget https://raw.githubusercontent.com/D1NFUCK3Rs/oneclick-pritunl/master/debian8.sh
 chmod +x debian8.sh
 ./debian8.sh
 ```
