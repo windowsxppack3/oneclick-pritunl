@@ -15,26 +15,14 @@ Script Install
 - Web Server
 - Squid Proxy Port 8080,8000,80"
 
-**TimeZone**   :  ไทยโว้ยยยยย
+**TimeZone**   :  THAILAND
 
 _________________________________________________
-**วิธีติดตั้ง**
-
-Ubuntu 14.xx+
-```
-wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/install.sh
-chmod +x install.sh
-./install.sh
-```
-
-__________________________________________________
-**วิธีติดตั้ง**
-
 Debian8
 ```
-wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/debian8.sh
-chmod +x debian8.sh
-./debian8.sh
+wget -O pritunl8.sh https://github.com/D1NFUCK3Rs/oneclick-pritunl/blob/master/pritunl8.sh?raw=true
+chmod +x pritunl8.sh
+./pritunl8.sh
 ```
 
 __________________________________________________
